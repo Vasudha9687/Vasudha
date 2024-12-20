@@ -19,12 +19,14 @@ Here are the tools and technologies I work with:
 ### 1. **Total Booking Dashboard**  
 - **Tools Used:** Excel, Power BI , Tableau
 - **Description:** Analyzed sales data to identify trends and opportunities, and built an interactive Power BI dashboard.  
-![image](https://github.com/user-attachments/assets/e1bcc2c8-b331-4d2e-93f5-57df8e7caff1) 
+<a href="https://private-user-images.githubusercontent.com/188757588/397646854-e1bcc2c8-b331-4d2e-93f5-57df8e7caff1.png?jwt=..." target="_blank" rel="noopener noreferrer">Open Image</a>
+
 
 ### 2. **Total Revenue Dashboard**  
 - **Tools Used:** Excel, Power BI 
 - **Description:** Performed customer segmentation based on purchase history and demographics to improve marketing strategies.  
-<a href="https://private-user-images.githubusercontent.com/188757588/397647206-987d9f81-6bb6-459b-b920-f83c3d35593f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2ODk4NjksIm5iZiI6MTczNDY4OTU2OSwicGF0aCI6Ii8xODg3NTc1ODgvMzk3NjQ3MjA2LTk4N2Q5ZjgxLTZiYjYtNDU5Yi1iOTIwLWY4M2MzZDM1NTkzZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMFQxMDEyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTkxZjQzYjhhZTdmMmRhYzhhZDFkMDFhYzI2YzJiYmI4Njg2ZWU4YTVlZGE5YTk0ZGNkMzUxY2ZmMmFkMzU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VynsKi5YetGbCnDQVAb5aldzKa0t4rvoTXELNLaLR-k">View Image</a>
+[View Image](https://private-user-images.githubusercontent.com/188757588/397647206-987d9f81-6bb6-459b-b920-f83c3d35593f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2ODk4NjksIm5iZiI6MTczNDY4OTU2OSwicGF0aCI6Ii8xODg3NTc1ODgvMzk3NjQ3MjA2LTk4N2Q5ZjgxLTZiYjYtNDU5Yi1iOTIwLWY4M2MzZDM1NTkzZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMFQxMDEyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTkxZjQzYjhhZTdmMmRhYzhhZDFkMDFhYzI2YzJiYmI4Njg2ZWU4YTVlZGE5YTk0ZGNkMzUxY2ZmMmFkMzU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VynsKi5YetGbCnDQVAb5aldzKa0t4rvoTXELNLaLR-k)
+
 
   
 
