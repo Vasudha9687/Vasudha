@@ -19,7 +19,9 @@ Here are the tools and technologies I work with:
 ### 1. **Total Booking Dashboard**  
 - **Tools Used:** Excel, Power BI , Tableau
 - **Description:** Analyzed sales data to identify trends and opportunities, and built an interactive Power BI dashboard.  
-![image](https://github.com/user-attachments/assets/d4227a7e-a6b0-4d09-ad43-acb757d7c5dc)
+[View Image](https://private-user-images.githubusercontent.com/188757588/397715275-d4227a7e-a6b0-4d09-ad43-acb757d7c5dc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2OTIxMjksIm5iZiI6MTczNDY5MTgyOSwicGF0aCI6Ii8xODg3NTc1ODgvMzk3NzE1Mjc1LWQ0MjI3YTdlLWE2YjAtNGQwOS1hZDQzLWFjYjc1N2Q3YzVkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMFQxMDUwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jN2EwNGY0MGI5MzczYzNlODAzODNlZDE5ZGMyODMxOWNlMWE0ZjA1YzgzNGQ2NmM1YzkxNmIwMDc1MWVkY2Y1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.S82EQtzkpSB0o19ijEVipTWgHj3QXQAtohYhRk_ivkI)
+
+
 
 
 
